@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "../INTRODUCE/kiếm lai/index.html",
+      link: "/TKW_DucHai/INTRODUCE/kiếm lai/index.html",
     },
     {
       title: "Hoạ Giang Hồ Chi Bất Lương Nhân",
