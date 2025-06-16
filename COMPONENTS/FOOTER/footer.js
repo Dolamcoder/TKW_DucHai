@@ -2,9 +2,8 @@
 
 // Tính đường dẫn tương đối tùy theo độ sâu thư mục hiện tại
 function getRelativePath(target) {
-  const currentPath = window.location.pathname;
-  const depth = currentPath.split("/").length - 2; // Trừ domain + tên file
-  return "../".repeat(depth) + target;
+  const base = window.location.origin + window.location.pathname.split("/").slice(0, -1).join("/") + "/";
+  return base + target;
 }
 
 fetch(getRelativePath("COMPONENTS/FOOTER/footer.html"))
