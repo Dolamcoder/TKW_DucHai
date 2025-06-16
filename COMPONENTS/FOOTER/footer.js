@@ -1,5 +1,5 @@
 
-fetch(getRelativePath("./COMPONENTS/FOOTER/footer.html"))
+fetch(getRelativePath("/TKW_DucHai//COMPONENTS/FOOTER/footer.html"))
   .then((response) => response.text())
   .then((data) => {
     const footerPlaceholder = document.getElementById("footer-placeholder");

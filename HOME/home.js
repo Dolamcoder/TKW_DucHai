@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "../INTRODUCE/vương giả vinh diệu/index.html",
+      link: "/TKW_DucHai/INTRODUCE/vương giả vinh diệu/index.html",
     },
     {
       title: "Thần Lan Kỳ Vực Vô Song Châu",
@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "../INTRODUCE/thần lan kỳ vực vô song châu/index.html",
+      link: "/TKW_DucHai/INTRODUCE/thần lan kỳ vực vô song châu/index.html",
     },
     {
       title: "Phàm Nhân Tu Tiên",
@@ -161,7 +161,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "../INTRODUCE/phàm nhân tu tiên/index.html",
+      link: "/TKW_DucHai/INTRODUCE/phàm nhân tu tiên/index.html",
     },
     {
       title: "Tử Xuyên",
