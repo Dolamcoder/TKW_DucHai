@@ -179,7 +179,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "../INTRODUCE/natra ma đồng giáng thế/index.html",
+      link: "/TKW_DucHai/INTRODUCE/natra ma đồng giáng thế/index.html",
     },
   ];
 
