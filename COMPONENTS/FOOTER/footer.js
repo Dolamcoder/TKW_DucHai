@@ -6,7 +6,7 @@ function getRelativePath(target) {
   return "../".repeat(depth) + target;
 }
 
-fetch(getRelativePath("COMPONENTS/FOOTER/footer.html"))
+fetch(getRelativePath("./COMPONENTS/FOOTER/footer.html"))
   .then((response) => response.text())
   .then((data) => {
     const footerPlaceholder = document.getElementById("footer-placeholder");
