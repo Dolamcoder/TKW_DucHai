@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "Tu tiên, Huyền huyễn",
       author: "Thần Đông",
       status: "Hoàn thành",
-      link: "./INTRODUCE/thế giới hoàn mỹ/truyen1.html",
+      link: "../INTRODUCE/thế giới hoàn mỹ/truyen1.html",
     },
     {
       title: "Tiên Nghịch",
@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "Tu tiên, Huyền huyễn",
       author: "Nhĩ Căn",
       status: "Hoàn thành",
-      link: "./INTRODUCE/tiên nghịch/index.html",
+      link: "../INTRODUCE/tiên nghịch/index.html",
     },
     {
       title: "Đấu Phá Thương Khung",
@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "Cổ trang, Huyền huyễn",
       author: "Thiên Tàm Thổ Đậu",
       status: "Hoàn thành",
-      link: "./INTRODUCE/đấu phá thương khung/index.html",
+      link: "../INTRODUCE/đấu phá thương khung/index.html",
     },
     {
       title: "Mục Thần Ký",
@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "Cổ trang, Huyền huyễn",
       author: "Trạch Trư",
       status: "Hoàn thành",
-      link: "./INTRODUCE/mục thần ký/index.html",
+      link: "../INTRODUCE/mục thần ký/index.html",
     },
     {
       title: "Tru Tiên",
@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "Cổ trang, Huyền huyễn",
       author: "Tiêu Đỉnh",
       status: "Hoàn thành",
-      link: "./INTRODUCE/tru tiên/index.html",
+      link: "../INTRODUCE/tru tiên/index.html",
     },
     {
       title: "Thương Nguyên Đồ",
@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "Cổ trang, Huyền huyễn",
       author: "",
       status: "Hoàn thành",
-      link: "./INTRODUCE/thương nguyên đồ/index.html",
+      link: "../INTRODUCE/thương nguyên đồ/index.html",
     },
     {
       title: "Trảm Thần",
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "Hiện đại, Huyền huyễn",
       author: "",
       status: "Hoàn thành",
-      link: "./INTRODUCE/trảm thần/index.html",
+      link: "../INTRODUCE/trảm thần/index.html",
     },
     {
       title: "Kiếm Lai",
@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/kiếm lai/index.html",
+      link: "../INTRODUCE/kiếm lai/index.html",
     },
     {
       title: "Hoạ Giang Hồ Chi Bất Lương Nhân",
@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/hoạ giang hồ/index.html",
+      link: "../INTRODUCE/hoạ giang hồ/index.html",
     },
     {
       title: "Già Thiên",
@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/già thiên/index.html",
+      link: "../INTRODUCE/già thiên/index.html",
     },
     {
       title: "Thôn Phệ Tinh Không",
@@ -98,7 +98,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/thôn phệ tinh không/index.html",
+      link: "../INTRODUCE/thôn phệ tinh không/index.html",
     },
     {
       title: "Hoả Phụng Liêu Nguyên",
@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/hoả phụng liêu nguyên/index.html",
+      link: "../INTRODUCE/hoả phụng liêu nguyên/index.html",
     },
     {
       title: "Trường Sinh Giới",
@@ -116,7 +116,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/trường sinh giới/index.html",
+      link: "../INTRODUCE/trường sinh giới/index.html",
     },
     {
       title: "Nguyên Tôn",
@@ -125,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/nguyên tôn/index.html",
+      link: "../INTRODUCE/nguyên tôn/index.html",
     },
     {
       title: "Quyến Tư Lượng",
@@ -134,7 +134,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/quyến tư lượng/index.html",
+      link: "../INTRODUCE/quyến tư lượng/index.html",
     },
     {
       title: "Vương Giả Vinh Diệu",
@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/vương giả vinh diệu/index.html",
+      link: "../INTRODUCE/vương giả vinh diệu/index.html",
     },
     {
       title: "Thần Lan Kỳ Vực Vô Song Châu",
@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/thần lan kỳ vực vô song châu/index.html",
+      link: "../INTRODUCE/thần lan kỳ vực vô song châu/index.html",
     },
     {
       title: "Phàm Nhân Tu Tiên",
@@ -161,7 +161,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/phàm nhân tu tiên/index.html",
+      link: "../INTRODUCE/phàm nhân tu tiên/index.html",
     },
     {
       title: "Tử Xuyên",
@@ -170,7 +170,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/tử xuyên/index.html",
+      link: "../INTRODUCE/tử xuyên/index.html",
     },
     {
       title: "Natra Ma Đồng Giáng Thế",
@@ -179,7 +179,7 @@ document.addEventListener("DOMContentLoaded", function () {
       category: "",
       author: "",
       status: "",
-      link: "./INTRODUCE/natra ma đồng giáng thế/index.html",
+      link: "../INTRODUCE/natra ma đồng giáng thế/index.html",
     },
   ];
 

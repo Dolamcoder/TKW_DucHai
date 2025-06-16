@@ -1,10 +1,3 @@
-// footer.js
-
-function getRelativePath(target) {
-  const currentPath = window.location.pathname;
-  const depth = currentPath.split("/").length - 2; // Trừ domain + tên file
-  return "../".repeat(depth) + target;
-}
 
 fetch(getRelativePath("./COMPONENTS/FOOTER/footer.html"))
   .then((response) => response.text())
